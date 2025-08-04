@@ -78,3 +78,60 @@ This project uses **Machine Learning algorithms** to predict the likelihood of *
 The Person does not have a Heart Disease
 or
 The Person has a Heart Disease
+_____________________________________________________________________________________________________________________________________________________________________________
+# 🌍 COVID-19 Country-Wise Analysis and Visualization
+
+Welcome to the **COVID-19 Country-Wise Analysis** project!  
+This notebook provides an in-depth exploration and visualization of global COVID-19 data, helping you understand the pandemic's impact across countries and regions.
+
+---
+
+## 📁 Dataset
+
+The dataset used is [`country_wise_latest.csv`](https://www.kaggle.com/datasets/imdevskp/corona-virus-report), which contains:
+- ✅ Confirmed, Recovered, Active, and Death case counts
+- 🔁 New Cases, Deaths, and Recoveries
+- 📈 Weekly and daily trends
+- 🌐 WHO Region classification for each country
+- 📊 Calculated metrics like:
+  - Deaths/100 Cases
+  - Recovered/100 Cases
+  - Deaths/100 Recovered
+
+---
+
+## 🔍 What This Project Covers
+
+- ✅ Data Cleaning & Preprocessing using **Pandas**
+- 📊 Visualizing country-wise COVID statistics
+- 🌐 Comparing regions using **WHO classifications**
+- 🔥 Highlighting top countries by:
+  - New cases
+  - Weekly increases
+  - Recovery and fatality ratios
+
+---
+
+## 📸 Sample Visuals
+
+> *(Screenshots or graphs can be added here later if desired)*
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## 📌 Why This Project?
+
+This is a beginner-friendly project designed for learning data analysis using real-world data. You can use this as a base for:
+- 📊 Interactive Dashboards
+- 📈 Trend forecasting models
+- 💻 Real-time COVID tracking tools
+
+---
