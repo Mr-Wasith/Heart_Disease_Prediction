@@ -78,7 +78,7 @@ This project uses **Machine Learning algorithms** to predict the likelihood of *
 The Person does not have a Heart Disease
 or
 The Person has a Heart Disease
-_____________________________________________________________________________________________________________________________________________________________________________
+
 # 🌍 COVID-19 Country-Wise Analysis and Visualization
 
 Welcome to the **COVID-19 Country-Wise Analysis** project!  
