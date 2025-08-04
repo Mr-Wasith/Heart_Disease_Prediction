@@ -71,14 +71,14 @@ The Person has a Heart Disease
 
 ---
 
-# 🌍 COVID-19 Country-Wise Analysis and Visualization
+## 🌍 COVID-19 Country-Wise Analysis and Visualization
 
 Welcome to the **COVID-19 Country-Wise Analysis** project!  
 This notebook provides an in-depth exploration and visualization of global COVID-19 data, helping you understand the pandemic's impact across countries and regions.
 
 ---
 
-## 📁 Dataset
+### 📁 Dataset
 
 The dataset used is [`country_wise_latest.csv`](https://www.kaggle.com/datasets/imdevskp/corona-virus-report), which contains:
 - ✅ Confirmed, Recovered, Active, and Death case counts
@@ -92,7 +92,7 @@ The dataset used is [`country_wise_latest.csv`](https://www.kaggle.com/datasets/
 
 ---
 
-## 🔍 What This Project Covers
+### 🔍 What This Project Covers
 
 - ✅ Data Cleaning & Preprocessing using **Pandas**
 - 📊 Visualizing country-wise COVID statistics
@@ -104,13 +104,13 @@ The dataset used is [`country_wise_latest.csv`](https://www.kaggle.com/datasets/
 
 ---
 
-## 📸 Sample Visuals
+### 📸 Sample Visuals
 
 > *(Screenshots or graphs can be added here later if desired)*
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 - Python 3.x
 - Pandas
@@ -119,7 +119,7 @@ The dataset used is [`country_wise_latest.csv`](https://www.kaggle.com/datasets/
 
 ---
 
-## 📌 Why This Project?
+### 📌 Why This Project?
 
 This is a beginner-friendly project designed for learning data analysis using real-world data. You can use this as a base for:
 - 📊 Interactive Dashboards
